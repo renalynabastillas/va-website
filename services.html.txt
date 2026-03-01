@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Services | Renalyn G Abastillas</title>
+  <meta name="description" content="Administrative virtual assistant services: operations support, documentation, reporting, workflows, and AI-assisted admin support." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body data-page="services">
+  <header class="site-header" id="siteHeader">
+    <div class="container">
+      <div class="header-inner">
+        <a class="brand" href="index.html">
+          <div class="name">Renalyn G Abastillas</div>
+          <div class="role">Administrative Virtual Assistant</div>
+        </a>
+
+        <div class="nav-actions">
+          <nav class="primary-nav" aria-label="Primary navigation">
+            <a class="navlink" data-active="home" href="index.html">Home</a>
+            <a class="navlink" data-active="about" href="about.html">About</a>
+            <a class="navlink" data-active="services" href="services.html">Services</a>
+            <a class="navlink" data-active="process" href="process.html">Process</a>
+            <a class="navlink" data-active="contact" href="contact.html">Contact</a>
+          </nav>
+
+          <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobilePanel">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+              <path d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="mobile-panel" id="mobilePanel" hidden>
+        <div class="mobile-links" aria-label="Mobile navigation">
+          <a class="navlink" data-active="home" href="index.html">Home</a>
+          <a class="navlink" data-active="about" href="about.html">About</a>
+          <a class="navlink" data-active="services" href="services.html">Services</a>
+          <a class="navlink" data-active="process" href="process.html">Process</a>
+          <a class="navlink" data-active="contact" href="contact.html">Contact</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="page" aria-labelledby="servicesTitle">
+      <div class="container">
+        <div class="eyebrow">Services</div>
+        <h1 id="servicesTitle">How I Can Support Your Operations</h1>
+        <p>Structured administrative support designed to reduce friction, improve visibility, and keep execution consistent.</p>
+
+        <div class="section">
+          <div class="grid grid-2">
+            <div>
+              <h2>Administrative Operations Support</h2>
+              <p>Daily coordination that keeps priorities moving without constant follow-ups.</p>
+              <ul class="clean">
+                <li>Inbox triage and message organization</li>
+                <li>Calendar coordination and scheduling support</li>
+                <li>Meeting support: agendas, notes, and action items</li>
+                <li>Task coordination and follow-through</li>
+                <li>Client/admin communications support</li>
+              </ul>
+            </div>
+            <div class="card">
+              <h3>Outcome</h3>
+              <p class="meta">Fewer missed details, cleaner handoffs, and more predictable execution.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="section soft">
+          <div class="container">
+            <h2>Documentation & Records Management</h2>
+            <p>Clear documentation and organized records that support continuity and scale.</p>
+            <div class="grid grid-3" style="margin-top:18px;">
+              <div class="card"><h3>SOPs & Templates</h3><p class="meta">Create and maintain SOPs, checklists, and reusable templates.</p></div>
+              <div class="card"><h3>File Organization</h3><p class="meta">Folder structures, naming conventions, and consistent upkeep.</p></div>
+              <div class="card"><h3>Documentation Updates</h3><p class="meta">Keep process docs current as tools and workflows evolve.</p></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="grid grid-2">
+            <div>
+              <h2>Reporting & Data Coordination</h2>
+              <p>Simple reporting rhythms that improve visibility and reduce status-chasing.</p>
+              <ul class="clean">
+                <li>Weekly status reports and updates</li>
+                <li>Tracker maintenance and progress visibility</li>
+                <li>Spreadsheet coordination and cleanup</li>
+                <li>Basic data organization and summaries</li>
+              </ul>
+            </div>
+            <div class="card">
+              <h3>Outcome</h3>
+              <p class="meta">Clear progress signals that help teams stay aligned.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="section soft">
+          <div class="container">
+            <h2>Workflow & Systems Support</h2>
+            <p>Operational structure that makes execution smoother across tools and people.</p>
+            <div class="grid grid-3" style="margin-top:18px;">
+              <div class="card"><h3>Workflow Setup</h3><p class="meta">Support for repeatable workflows and clean handoffs.</p></div>
+              <div class="card"><h3>Tool Support</h3><p class="meta">Lightweight setup and coordination across your existing stack.</p></div>
+              <div class="card"><h3>Process Cleanup</h3><p class="meta">Reduce friction points and tighten recurring admin routines.</p></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="grid grid-2">
+            <div>
+              <h2>AI + Human Administrative Support</h2>
+              <p>Faster execution with careful review and professional standards.</p>
+              <ul class="clean">
+                <li>Automation support (where appropriate)</li>
+                <li>Drafting + review for emails, docs, and summaries</li>
+                <li>Prompt structuring for consistent outputs</li>
+                <li>Quality assurance and final refinement</li>
+              </ul>
+            </div>
+            <div class="card">
+              <h3>Outcome</h3>
+              <p class="meta">More speed and structure—without compromising accuracy or tone.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="section soft">
+          <div class="container">
+            <div class="cta-band">
+              <div>
+                <h3 style="margin:0 0 6px;">Closing Call to Action</h3>
+                <p style="margin:0;">If you need structure behind the scenes, let’s discuss the best support setup for your operations.</p>
+              </div>
+              <a class="btn btn-primary" href="contact.html">Book a Consultation →</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="footer-inner">
+          <div>© <span id="year"></span> Renalyn G Abastillas. All rights reserved.</div>
+          <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="process.html">Process</a>
+            <a href="contact.html">Contact</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

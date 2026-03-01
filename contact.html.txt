@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Contact | Renalyn G Abastillas</title>
+  <meta name="description" content="Contact Renalyn G Abastillas — email, WhatsApp, LinkedIn, or submit an inquiry form." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body data-page="contact">
+  <header class="site-header" id="siteHeader">
+    <div class="container">
+      <div class="header-inner">
+        <a class="brand" href="index.html">
+          <div class="name">Renalyn G Abastillas</div>
+          <div class="role">Administrative Virtual Assistant</div>
+        </a>
+
+        <div class="nav-actions">
+          <nav class="primary-nav" aria-label="Primary navigation">
+            <a class="navlink" data-active="home" href="index.html">Home</a>
+            <a class="navlink" data-active="about" href="about.html">About</a>
+            <a class="navlink" data-active="services" href="services.html">Services</a>
+            <a class="navlink" data-active="process" href="process.html">Process</a>
+            <a class="navlink" data-active="contact" href="contact.html">Contact</a>
+          </nav>
+
+          <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobilePanel">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+              <path d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="mobile-panel" id="mobilePanel" hidden>
+        <div class="mobile-links" aria-label="Mobile navigation">
+          <a class="navlink" data-active="home" href="index.html">Home</a>
+          <a class="navlink" data-active="about" href="about.html">About</a>
+          <a class="navlink" data-active="services" href="services.html">Services</a>
+          <a class="navlink" data-active="process" href="process.html">Process</a>
+          <a class="navlink" data-active="contact" href="contact.html">Contact</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="page" aria-labelledby="contactTitle">
+      <div class="container">
+        <div class="eyebrow">Contact</div>
+        <h1 id="contactTitle">Contact Us</h1>
+        <p>Choose the channel that works best. I’ll respond with clear next steps.</p>
+
+        <div class="section">
+          <div class="grid grid-2" style="align-items: stretch;">
+            <div class="card">
+              <div class="card-title">
+                <span class="icon-chip" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 6h16v12H4z"/>
+                    <path d="M4 7l8 6 8-6"/>
+                  </svg>
+                </span>
+                <div>
+                  <h3 style="margin:0;">Email</h3>
+                  <div class="meta">Best for detailed inquiries</div>
+                </div>
+              </div>
+
+              <div style="font-weight:650;color:rgba(15,23,42,0.85);">renalyn.abastillass@gmail.com</div>
+              <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:14px;">
+                <a class="btn btn-primary" target="_blank" rel="noopener"
+                   href="https://mail.google.com/mail/?view=cm&fs=1&to=renalyn.abastillass@gmail.com&su=Inquiry%20-%20Administrative%20Support">
+                  Open Gmail Compose →
+                </a>
+                <a class="btn btn-secondary"
+                   href="mailto:renalyn.abastillass@gmail.com?subject=Inquiry%20-%20Administrative%20Support">
+                  Mailto Fallback
+                </a>
+              </div>
+              <div class="meta" style="margin-top:10px;">Tip: Include your business/agency, pain points, and preferred support cadence.</div>
+            </div>
+
+            <div class="card">
+              <div class="card-title">
+                <span class="icon-chip" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M22 16.92v3a2 2 0 0 1-2.18 2A19.8 19.8 0 0 1 3 5.18 2 2 0 0 1 5.11 3h3a2 2 0 0 1 2 1.72c.12.86.31 1.7.57 2.5a2 2 0 0 1-.45 2.11L9.1 10.9a16 16 0 0 0 4 4l1.57-1.13a2 2 0 0 1 2.11-.45c.8.26 1.64.45 2.5.57A2 2 0 0 1 22 16.92z"/>
+                  </svg>
+                </span>
+                <div>
+                  <h3 style="margin:0;">WhatsApp</h3>
+                  <div class="meta">Fast initial contact</div>
+                </div>
+              </div>
+
+              <div style="font-weight:650;color:rgba(15,23,42,0.85);">+63 927 368 3296</div>
+              <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:14px;">
+                <a class="btn btn-primary" target="_blank" rel="noopener"
+                   href="https://api.whatsapp.com/send?phone=639273683296&text=Hi%20Renalyn%2C%20I%27m%20interested%20in%20your%20Administrative%20Virtual%20Assistant%20services">
+                  Message on WhatsApp →
+                </a>
+              </div>
+              <div class="meta" style="margin-top:10px;">Ideal for a quick overview and next-step coordination.</div>
+            </div>
+
+            <div class="card">
+              <div class="card-title">
+                <span class="icon-chip" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 4h4v16H4z"/>
+                    <path d="M10 10h4v2a3 3 0 0 1 6 0v6h-4v-6a1 1 0 0 0-2 0v6h-4z"/>
+                  </svg>
+                </span>
+                <div>
+                  <h3 style="margin:0;">LinkedIn</h3>
+                  <div class="meta">Professional connection</div>
+                </div>
+              </div>
+
+              <div style="font-weight:650;color:rgba(15,23,42,0.85);">linkedin.com/in/renalynabastillass</div>
+              <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:14px;">
+                <a class="btn btn-secondary" target="_blank" rel="noopener"
+                   href="https://www.linkedin.com/in/renalynabastillass/">
+                  Connect on LinkedIn →
+                </a>
+              </div>
+              <div class="meta" style="margin-top:10px;">Send a short note about your operations and what support you’re looking for.</div>
+            </div>
+
+            <div class="card">
+              <div class="card-title">
+                <span class="icon-chip" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M6 4h12v16H6z"/>
+                    <path d="M9 8h6M9 12h6M9 16h4"/>
+                  </svg>
+                </span>
+                <div>
+                  <h3 style="margin:0;">Submit Inquiry</h3>
+                  <div class="meta">Best if you want structure</div>
+                </div>
+              </div>
+
+              <div style="font-weight:650;color:rgba(15,23,42,0.85);">Google Form</div>
+              <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:14px;">
+                <a class="btn btn-primary" target="_blank" rel="noopener"
+                   href="https://forms.gle/kG7yqA9GGTVWtGRR7">
+                  Open Inquiry Form →
+                </a>
+              </div>
+              <div class="meta" style="margin-top:10px;">If you’re unsure where to start, use the inquiry form.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section soft">
+          <div class="container">
+            <div class="cta-band">
+              <div>
+                <h3 style="margin:0 0 6px;">Preferred next step</h3>
+                <p style="margin:0;">Book a consultation, and I’ll recommend a structured support plan for your operations.</p>
+              </div>
+              <a class="btn btn-primary" target="_blank" rel="noopener" href="https://forms.gle/kG7yqA9GGTVWtGRR7">
+                Start with the Inquiry Form →
+              </a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="footer-inner">
+          <div>© <span id="year"></span> Renalyn G Abastillas. All rights reserved.</div>
+          <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="process.html">Process</a>
+            <a href="contact.html">Contact</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

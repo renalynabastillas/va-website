@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Process | Renalyn G Abastillas</title>
+  <meta name="description" content="How we work: a calm, structured 4-step process with clear expectations and consistent reporting." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body data-page="process">
+  <header class="site-header" id="siteHeader">
+    <div class="container">
+      <div class="header-inner">
+        <a class="brand" href="index.html">
+          <div class="name">Renalyn G Abastillas</div>
+          <div class="role">Administrative Virtual Assistant</div>
+        </a>
+
+        <div class="nav-actions">
+          <nav class="primary-nav" aria-label="Primary navigation">
+            <a class="navlink" data-active="home" href="index.html">Home</a>
+            <a class="navlink" data-active="about" href="about.html">About</a>
+            <a class="navlink" data-active="services" href="services.html">Services</a>
+            <a class="navlink" data-active="process" href="process.html">Process</a>
+            <a class="navlink" data-active="contact" href="contact.html">Contact</a>
+          </nav>
+
+          <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobilePanel">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+              <path d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="mobile-panel" id="mobilePanel" hidden>
+        <div class="mobile-links" aria-label="Mobile navigation">
+          <a class="navlink" data-active="home" href="index.html">Home</a>
+          <a class="navlink" data-active="about" href="about.html">About</a>
+          <a class="navlink" data-active="services" href="services.html">Services</a>
+          <a class="navlink" data-active="process" href="process.html">Process</a>
+          <a class="navlink" data-active="contact" href="contact.html">Contact</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="page" aria-labelledby="processTitle">
+      <div class="container">
+        <div class="eyebrow">Process</div>
+        <h1 id="processTitle">How We Work</h1>
+        <p>The process is designed to be calm, structured, and efficient—so you get dependable execution without added complexity.</p>
+
+        <div class="section">
+          <h2>Short Intro</h2>
+          <p>
+            We start with clarity, build structure that fits your tools and workflow, then execute with consistent reporting.
+            This keeps your operations organized and your priorities moving.
+          </p>
+        </div>
+
+        <div class="section soft">
+          <div class="container">
+            <h2>4-Step Process</h2>
+            <div class="grid grid-4" style="margin-top: 18px;">
+              <div class="card"><div class="meta">Step 1</div><h3>Clarify Needs</h3><p class="meta">Define scope, priorities, tools, and communication expectations.</p></div>
+              <div class="card"><div class="meta">Step 2</div><h3>Set Up Structure</h3><p class="meta">Build workflows, templates, and documentation to support execution.</p></div>
+              <div class="card"><div class="meta">Step 3</div><h3>Execute & Coordinate</h3><p class="meta">Run tasks with weekly cadence, clean handoffs, and follow-through.</p></div>
+              <div class="card"><div class="meta">Step 4</div><h3>Review & Improve</h3><p class="meta">Share updates, track progress, and refine systems for efficiency.</p></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section">
+          <h2>What You Can Expect</h2>
+          <div class="grid grid-3" style="margin-top: 18px;">
+            <div class="card"><h3>Response time expectations</h3><p class="meta">Reliable communication windows and predictable updates.</p></div>
+            <div class="card"><h3>Reporting cadence</h3><p class="meta">Weekly summaries and trackers that keep work visible.</p></div>
+            <div class="card"><h3>Documentation standards</h3><p class="meta">Clean notes, SOPs, and templates that support continuity.</p></div>
+            <div class="card"><h3>Proactive updates</h3><p class="meta">Early signals and clear next steps to reduce surprises.</p></div>
+            <div class="card"><h3>Confidentiality mindset</h3><p class="meta">Professional handling of internal and client information.</p></div>
+            <div class="card"><h3>Operational calm</h3><p class="meta">Structured support that reduces admin noise and friction.</p></div>
+          </div>
+        </div>
+
+        <div class="section soft">
+          <div class="container">
+            <div class="cta-band">
+              <div>
+                <h3 style="margin:0 0 6px;">Ready to start?</h3>
+                <p style="margin:0;">Book a consultation and I’ll recommend a support structure aligned to your workflow.</p>
+              </div>
+              <a class="btn btn-primary" href="contact.html">Book a Consultation →</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="footer-inner">
+          <div>© <span id="year"></span> Renalyn G Abastillas. All rights reserved.</div>
+          <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="process.html">Process</a>
+            <a href="contact.html">Contact</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

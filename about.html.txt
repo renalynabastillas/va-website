@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About | Renalyn G Abastillas</title>
+  <meta name="description" content="About Renalyn G Abastillas — Administrative Virtual Assistant supporting business owners and agencies." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body data-page="about">
+  <header class="site-header" id="siteHeader">
+    <div class="container">
+      <div class="header-inner">
+        <a class="brand" href="index.html">
+          <div class="name">Renalyn G Abastillas</div>
+          <div class="role">Administrative Virtual Assistant</div>
+        </a>
+
+        <div class="nav-actions">
+          <nav class="primary-nav" aria-label="Primary navigation">
+            <a class="navlink" data-active="home" href="index.html">Home</a>
+            <a class="navlink" data-active="about" href="about.html">About</a>
+            <a class="navlink" data-active="services" href="services.html">Services</a>
+            <a class="navlink" data-active="process" href="process.html">Process</a>
+            <a class="navlink" data-active="contact" href="contact.html">Contact</a>
+          </nav>
+
+          <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobilePanel">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+              <path d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="mobile-panel" id="mobilePanel" hidden>
+        <div class="mobile-links" aria-label="Mobile navigation">
+          <a class="navlink" data-active="home" href="index.html">Home</a>
+          <a class="navlink" data-active="about" href="about.html">About</a>
+          <a class="navlink" data-active="services" href="services.html">Services</a>
+          <a class="navlink" data-active="process" href="process.html">Process</a>
+          <a class="navlink" data-active="contact" href="contact.html">Contact</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="page" aria-labelledby="aboutTitle">
+      <div class="container">
+        <div class="eyebrow">About</div>
+        <h1 id="aboutTitle">About</h1>
+        <p>
+          I support business owners and agencies who need consistent administrative structure—so execution stays reliable,
+          communication stays clear, and details don’t fall through.
+        </p>
+
+        <div class="section">
+          <h2>Professional Introduction</h2>
+          <p>
+            I work best with leaders and teams who value clean systems, predictable follow-through, and operational clarity.
+            My role is to reduce the administrative load—coordinating tasks, maintaining documentation, and supporting workflows
+            so you can focus on decisions, delivery, and growth.
+          </p>
+        </div>
+
+        <div class="section soft">
+          <div class="container">
+            <h2>Administrative Foundation</h2>
+            <p>Core support areas that keep daily operations stable and well-documented.</p>
+            <div class="grid grid-3" style="margin-top: 18px;">
+              <div class="card"><h3>Coordination</h3><p class="meta">Scheduling, follow-ups, and task alignment across tools and teams.</p></div>
+              <div class="card"><h3>Documentation</h3><p class="meta">SOPs, templates, and process references that stay current.</p></div>
+              <div class="card"><h3>Inbox & Calendar</h3><p class="meta">Triage, organization, and support that improves responsiveness.</p></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="grid grid-2">
+            <div>
+              <h2>How I Work</h2>
+              <p>
+                My approach is simple: clarify priorities, build structure, execute consistently, and report clearly.
+                This keeps work visible, reduces rework, and supports better decisions.
+              </p>
+              <ul class="clean">
+                <li><strong>Clarity</strong> — define scope, priorities, and tools</li>
+                <li><strong>System</strong> — build workflows, templates, and documentation</li>
+                <li><strong>Execution</strong> — coordinate tasks and close loops</li>
+                <li><strong>Reporting</strong> — share updates and improve continuously</li>
+              </ul>
+            </div>
+            <div class="card">
+              <h3>Working style</h3>
+              <p class="meta">Calm, structured, and accountable—built for busy teams that need steady admin momentum.</p>
+              <ul class="clean">
+                <li>Clean handoffs and organized files</li>
+                <li>Clear status updates and timelines</li>
+                <li>Documentation that supports scale</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="section soft">
+          <div class="container">
+            <h2>Administrative Support in the AI Era</h2>
+            <p>
+              I use AI thoughtfully to accelerate admin work—drafting, summarizing, structuring information—while maintaining
+              human oversight for accuracy, tone, and context. The result is faster execution without sacrificing quality.
+            </p>
+            <div class="grid grid-3" style="margin-top: 18px;">
+              <div class="card"><h3>Speed</h3><p class="meta">Faster drafting and organization across repetitive tasks.</p></div>
+              <div class="card"><h3>Quality Control</h3><p class="meta">Human review to keep work accurate and aligned.</p></div>
+              <div class="card"><h3>Consistency</h3><p class="meta">Standard templates and outputs that support repeatable operations.</p></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="cta-band">
+            <div>
+              <h3 style="margin:0 0 6px;">Closing Statement</h3>
+              <p style="margin:0;">If you need a dependable administrative partner who brings structure and follow-through, I’m ready to support your team.</p>
+            </div>
+            <a class="btn btn-primary" href="contact.html">Let’s Connect →</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="footer-inner">
+          <div>© <span id="year"></span> Renalyn G Abastillas. All rights reserved.</div>
+          <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="process.html">Process</a>
+            <a href="contact.html">Contact</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

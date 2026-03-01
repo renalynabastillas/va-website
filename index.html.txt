@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Renalyn G Abastillas | Administrative Virtual Assistant</title>
+  <meta name="description" content="Reliable administrative support for business owners and agencies. Structured systems, clear communication, and dependable execution." />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body data-page="home">
+  <header class="site-header" id="siteHeader">
+    <div class="container">
+      <div class="header-inner">
+        <a class="brand" href="index.html" aria-label="Go to Home">
+          <div class="name">Renalyn G Abastillas</div>
+          <div class="role">Administrative Virtual Assistant</div>
+        </a>
+
+        <div class="nav-actions">
+          <nav class="primary-nav" aria-label="Primary navigation">
+            <a class="navlink" data-active="home" href="index.html">Home</a>
+            <a class="navlink" data-active="about" href="about.html">About</a>
+            <a class="navlink" data-active="services" href="services.html">Services</a>
+            <a class="navlink" data-active="process" href="process.html">Process</a>
+            <a class="navlink" data-active="contact" href="contact.html">Contact</a>
+          </nav>
+
+          <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false" aria-controls="mobilePanel">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+              <path d="M4 6h16M4 12h16M4 18h16"></path>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="mobile-panel" id="mobilePanel" hidden>
+        <div class="mobile-links" aria-label="Mobile navigation">
+          <a class="navlink" data-active="home" href="index.html">Home</a>
+          <a class="navlink" data-active="about" href="about.html">About</a>
+          <a class="navlink" data-active="services" href="services.html">Services</a>
+          <a class="navlink" data-active="process" href="process.html">Process</a>
+          <a class="navlink" data-active="contact" href="contact.html">Contact</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="page" aria-labelledby="homeTitle">
+      <div class="container">
+        <div class="hero">
+          <div class="float-icon one" aria-hidden="true">
+            <svg viewBox="0 0 24 24">
+              <path d="M9 7V6a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v1"/>
+              <path d="M4 8h16v10a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V8z"/>
+              <path d="M4 12h16"/>
+            </svg>
+          </div>
+          <div class="float-icon two" aria-hidden="true">
+            <svg viewBox="0 0 24 24">
+              <path d="M9 6h11"/>
+              <path d="M9 12h11"/>
+              <path d="M9 18h11"/>
+              <path d="M4 6l1.2 1.2L7.6 4.8"/>
+              <path d="M4 12l1.2 1.2L7.6 10.8"/>
+              <path d="M4 18l1.2 1.2L7.6 16.8"/>
+            </svg>
+          </div>
+
+          <div class="hero-inner">
+            <div class="hero-copy">
+              <div class="eyebrow">Executive-level admin support</div>
+              <h1 id="homeTitle">Reliable Administrative Support for Business Owners and Agencies</h1>
+              <p>
+                I provide structured, dependable remote administrative support to business owners and agencies who need
+                organized systems, clear communication, and reliable execution behind the scenes.
+              </p>
+
+              <div class="hero-actions">
+                <a class="btn btn-primary" href="contact.html">Book a Consultation <span aria-hidden="true">→</span></a>
+                <a class="btn btn-secondary" href="services.html">View Services</a>
+              </div>
+              <div class="microtrust">Response within 24–48 hours.</div>
+            </div>
+
+            <div class="profile-wrap">
+              <div class="profile" aria-label="Professional profile photo">
+                <img src="https://i.imgur.com/ebpBD9k.jpg" alt="Renalyn G Abastillas professional photo" loading="eager" />
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="grid grid-2" style="align-items:start;">
+            <div>
+              <div class="eyebrow">Introduction</div>
+              <h2>Calm, structured support that keeps operations moving</h2>
+              <p>
+                I’m <strong>Renalyn G Abastillas</strong>, an Administrative Virtual Assistant who helps business owners
+                and agencies stay organized, responsive, and execution-ready. I bring order to day-to-day operations—
+                managing details with consistency, documenting processes clearly, and coordinating work so your team can
+                focus on growth and strategy.
+              </p>
+            </div>
+
+            <div class="card">
+              <div class="card-title">
+                <span class="icon-chip" aria-hidden="true">
+                  <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M8 2v3M16 2v3"/>
+                    <path d="M3 7h18"/>
+                    <path d="M5 5h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2z"/>
+                  </svg>
+                </span>
+                <div>
+                  <h3 style="margin:0;">Working style highlights</h3>
+                  <div class="meta">Executive, dependable, and system-oriented</div>
+                </div>
+              </div>
+              <ul class="clean">
+                <li><strong>Systems-first support</strong> that reduces friction and prevents missed details</li>
+                <li><strong>Clear communication</strong> with proactive updates and clean documentation</li>
+                <li><strong>Reliable execution</strong> that keeps priorities moving week to week</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="section soft">
+          <div class="container">
+            <div class="eyebrow">Services preview</div>
+            <h2>Support designed to bring order to operations</h2>
+            <p>High-impact support areas that help leaders stay focused on decisions, delivery, and growth.</p>
+
+            <div class="grid grid-3" style="margin-top: 18px;">
+              <div class="card">
+                <div class="card-title">
+                  <span class="icon-chip" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M4 6h8M4 12h16M4 18h12"/>
+                      <path d="M14 6h6"/>
+                    </svg>
+                  </span>
+                  <div>
+                    <h3 style="margin:0;">Admin Operations Support</h3>
+                    <div class="meta">Coordination + execution</div>
+                  </div>
+                </div>
+                <p>Inbox and calendar coordination, task follow-through, and daily admin support to keep work moving.</p>
+              </div>
+
+              <div class="card">
+                <div class="card-title">
+                  <span class="icon-chip" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M3 7a2 2 0 0 1 2-2h5l2 2h9a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7z"/>
+                    </svg>
+                  </span>
+                  <div>
+                    <h3 style="margin:0;">Documentation & Records</h3>
+                    <div class="meta">Clarity + structure</div>
+                  </div>
+                </div>
+                <p>Organized files, SOPs, templates, and documentation that make processes repeatable and easy to follow.</p>
+              </div>
+
+              <div class="card">
+                <div class="card-title">
+                  <span class="icon-chip" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M4 19V5"/>
+                      <path d="M4 19h16"/>
+                      <path d="M8 17v-6"/>
+                      <path d="M12 17v-9"/>
+                      <path d="M16 17v-3"/>
+                    </svg>
+                  </span>
+                  <div>
+                    <h3 style="margin:0;">Reporting & Workflow Support</h3>
+                    <div class="meta">Visibility + coordination</div>
+                  </div>
+                </div>
+                <p>Trackers, updates, and reporting rhythms that help teams stay aligned without constant follow-ups.</p>
+              </div>
+            </div>
+
+            <div style="margin-top: 18px;">
+              <a class="btn btn-secondary" href="services.html">View Full Services</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="section">
+          <div class="eyebrow">Why work with me</div>
+          <h2>Professional support that feels steady and predictable</h2>
+          <p>When operations are structured, teams move faster and leaders think more clearly.</p>
+
+          <div class="grid grid-4" style="margin-top: 18px;">
+            <div class="card"><h3>Structured Systems</h3><p class="meta">Organized workflows and documentation so tasks don’t stall or disappear.</p></div>
+            <div class="card"><h3>Calm, Clear Communication</h3><p class="meta">Concise updates, clean notes, and fewer surprises.</p></div>
+            <div class="card"><h3>Reliable Follow-Through</h3><p class="meta">Details tracked and loops closed—consistent execution week to week.</p></div>
+            <div class="card"><h3>Agency & Owner-Friendly</h3><p class="meta">Support built for fast-moving teams with minimal admin overhead.</p></div>
+          </div>
+        </div>
+
+        <div class="section soft">
+          <div class="container">
+            <div class="cta-band">
+              <div>
+                <h3 style="margin:0 0 6px;">Let’s bring structure to your operations</h3>
+                <p style="margin:0;">Ready to delegate administrative details and focus on what matters most? Let’s connect.</p>
+              </div>
+              <a class="btn btn-primary" href="contact.html">Send an Inquiry →</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="footer-inner">
+          <div>© <span id="year"></span> Renalyn G Abastillas. All rights reserved.</div>
+          <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="process.html">Process</a>
+            <a href="contact.html">Contact</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </main>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
